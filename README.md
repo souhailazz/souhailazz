@@ -90,32 +90,6 @@ const souhail = {
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souhailazz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souhailazz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souhailazz&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souhailazz&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souhailazz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ### 💼 What I'm Up To
 
 - 🔭 **Currently Working On:** Building innovative web applications with modern tech stacks
